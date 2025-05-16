@@ -18,5 +18,22 @@ A web application where users input their symptoms and receive potential disease
 ### Installation
 ```bash
 git clone https://github.com/Vulture-avs/disease-symptom-diagnosis.git
+```
+
+Go to the project directory
+
+```bash
 cd disease-symptom-diagnosis
-pip install -r requirements.txt
+```
+
+Install dependencies
+
+```bash
+pip3 install -r requirements.txt
+```
+
+Start the server
+
+```bash
+python3 app.py
+```
